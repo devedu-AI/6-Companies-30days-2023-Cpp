@@ -5,5 +5,9 @@
 
 <br>
 
-## 🚀 Challenge Company 1 : Microsoft  [Link]()
+## 🚀 Challenge Company 1 : Microsoft  
+[Codes]() <br>
+[Handwritten Notes]()
+
+## 🚀 Challenge Company 2 : Goldman Sachs
 
